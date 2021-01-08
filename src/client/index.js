@@ -5,7 +5,7 @@ import './style/style.css';
 
 const App = () => {
   return <h1>
-    Hello World React and Node
+    Jr-dev
   </h1>
 };
 

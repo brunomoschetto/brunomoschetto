@@ -14,11 +14,11 @@ app.use(webpackDevMiddleware(webpack(webpackConfig)));
 
 // routes
 app.get('/', (req, res) => {
-  res.send('Hello World');
+  res.send('Bienvenidos a Jr-dev!!!');
 });
 
 app.get('/api', (req, res) => {
-  res.json({api: 'works!'});
+  res.json({"test": "Ok"});
 });
 
 // starting the server
