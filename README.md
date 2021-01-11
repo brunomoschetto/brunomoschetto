@@ -9,6 +9,6 @@ Por ahora, necesitamos empezar a diseñarla y darle funcionalidad.
 
 Aca van a encontrar React y Node listos para usar con Express. Luego vamos a agregar alguna DB.
 
-Gracias por sumarse a esta idea de Jr-dev!
+Gracias por sumarse a esta idea de Dev-Jr!!!
 
 Cristian Machuca.

@@ -14,7 +14,7 @@ app.use(webpackDevMiddleware(webpack(webpackConfig)));
 
 // routes
 app.get('/', (req, res) => {
-  res.send('Bienvenidos a Jr-dev!!!');
+  res.send('Bienvenidos a Dev-Jr!!!');
 });
 
 app.get('/api', (req, res) => {
