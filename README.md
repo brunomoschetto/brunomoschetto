@@ -5,7 +5,6 @@ I am a professional who seeks to work in the development area using as a competi
 ## Skills
 
 :star2: HTML / CSS <br>
-:star2: Python <br>
 :star2: Javascript <br>
 :star2: React <br>
 :star2: OOP <br>
