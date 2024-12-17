@@ -1,6 +1,10 @@
 ## Hi, I'm Bruno 👋🏽
 
-I am a professional who seeks to work in the development area using as a competitive advantage my problem-solving skills, interpersonal communication, and B2B business knowledge acquired through years of experience in the IT sector as a support technician and later in the marketing area.
+![portada_github_bruno](https://github.com/user-attachments/assets/82727279-d328-462c-a4ee-9584af66ad0b)
+
+I am a professional fullstack web developer and blockchain developer, driven by a passion for innovation and technology. I spent many years working as an IT infrastructure technician, where I honed my problem-solving skills and developed a deep understanding of systems and technology. It was during this time that I discovered my fascination with blockchain technology and its transformative potential.
+
+Motivated to bring ideas to life through code, I transitioned into software development by completing an intensive bootcamp where I mastered Ruby on Rails and other essential tools for modern development. Today, I combine my technical expertise with my interpersonal communication skills and B2B business knowledge to build robust web applications and decentralized solutions.
 
 ## Skills
 
